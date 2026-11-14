@@ -1,0 +1,22 @@
+# Build files
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Local configuration and secrets
+appsettings.Development.json
+secrets.json
+
+# User-specific files
+*.cache
+
+.idea/
